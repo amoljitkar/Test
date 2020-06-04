@@ -10,7 +10,7 @@ namespace Class5
     {
         static void Main(string[] args)
         {
-            string message = "Hello World!!";
+            string message = "Hello Spectrum!";
 
             Console.WriteLine(message);
         }
